@@ -3,7 +3,10 @@
 Official Diagnelia logos, colours and images.
 
 <p>
-  <img src="logo.svg" alt="Diagnelia logo" width="300">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-on-dark.svg">
+    <img src="logo.svg" alt="Diagnelia logo" width="300">
+  </picture>
 </p>
 
 ## Files
@@ -47,7 +50,7 @@ Official Diagnelia logos, colours and images.
 - change the colours, proportions or shape of the logo
 - stretch, rotate, outline or add effects to it
 - redraw the mark or set the wordmark in another typeface
-- place the light logo on a busy or dark background (use logo-on-dark.svg)
+- place logo.svg on a busy or dark background (use logo-on-dark.svg instead)
 
 For press, partner materials or any other use, email [info@diagnelia.com](mailto:info@diagnelia.com).
 
